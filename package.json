@@ -1,18 +1,15 @@
 {
-  "name": "keeperapp",
+  "name": "keeper",
   "version": "1.0.0",
-  "description": "Keeper App by Angela",
+  "description": "Keeper App ",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
-   
-    "@material-ui/icons": "4.11.3",
-   
-   
-    "@mui/icons-material": "5.14.11",
-    "@mui/material": "5.11.15",
-    
-    "loader-utils": "3.2.1",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.14.12",
+    "@mui/material": "^5.14.12",
+    "npm": "^10.2.0",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-scripts": "5.0.1"

@@ -1,8 +1,6 @@
 import { useState } from "react";
 import "../style/NewNote.css";
-// import Fab from "@mui/material/Fab";
-import Zoom from "@mui/material/Zoom";
-import AddIcon from "@mui/icons-material/Add";
+import AddIcon from '@mui/icons-material/Add';
 export default function CreateNewNote(props) {
   const [notes, setNotes] = useState({});
   const [isClicked, setIsClicded] = useState(false);

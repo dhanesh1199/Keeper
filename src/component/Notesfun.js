@@ -1,4 +1,4 @@
-import DeleteIcon from "@mui/icons-material/Delete";
+import DeleteIcon from '@mui/icons-material/Delete';
 import "../style/notestyle.css";
 function Notesfun(props) {
   return (
